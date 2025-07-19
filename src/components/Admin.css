@@ -1,0 +1,16 @@
+.admin-container {
+  padding: 20px;
+}
+.admin-nav {
+  margin-bottom: 16px;
+}
+.admin-link {
+  margin: 0 8px;
+  text-decoration: none;
+  color: #333;
+}
+.admin-content {
+  background: #f9f9f9;
+  padding: 16px;
+  border-radius: 8px;
+} 

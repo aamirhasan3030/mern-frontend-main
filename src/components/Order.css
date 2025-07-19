@@ -1,0 +1,28 @@
+.order-container {
+  padding: 24px;
+}
+.order-title {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+.order-item {
+  background: #f9f9f9;
+  margin-bottom: 20px;
+  padding: 16px;
+  border-radius: 8px;
+}
+.order-id, .order-value, .order-status {
+  margin: 4px 0;
+}
+.order-table {
+  width: 100%;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+.order-table th, .order-table td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+}
+.order-divider {
+  margin: 16px 0;
+} 

@@ -1,0 +1,65 @@
+.products-container {
+  padding: 24px;
+}
+.products-title {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+.products-error {
+  color: red;
+  margin-bottom: 10px;
+}
+.products-form-container {
+  margin-bottom: 18px;
+}
+.products-form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.products-input {
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.products-add-btn, .products-update-btn, .products-cancel-btn {
+  padding: 6px 14px;
+  margin: 0 4px;
+}
+.products-search-container {
+  margin-bottom: 16px;
+}
+.products-search-input {
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.products-search-btn {
+  padding: 6px 14px;
+}
+.products-table-container {
+  margin-top: 18px;
+}
+.products-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.products-table th, .products-table td {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+}
+.products-edit-btn, .products-delete-btn {
+  margin: 0 4px;
+  padding: 4px 10px;
+}
+.products-pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+.products-prev-btn, .products-next-btn {
+  padding: 6px 14px;
+  margin: 0 8px;
+}
+.products-page-info {
+  margin: 0 12px;
+} 
